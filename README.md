@@ -1,8 +1,8 @@
 # triEnemies
-A simple game In Python made using the pygame library (https://www.pygame.org)
+A simple game In Python made using the pygame library (https://www.pygame.org). Pygame is a python library for writing 2d games in python.
 
 This is a small project which I made to sharpen my concepts in Object Oriented Programming in Python. 
-It was fun and challenging and an overall great learning experience. Programming a game, even a simple one like this makes you fully use your imagination to visualize simple things like movement between different frames, collision, boundries. You tend to apreciate the amount of thought and attention to detail which goes into writing a game.
+It was fun and challenging and an overall great learning experience. Programming a game, even a simple one like this makes you fully use your imagination.You learn to visualize simple things like movement between different frames, collision, boundries and tend to apreciate the amount of thought and attention to detail which goes into writing a game even a very simple one like this.
 
 The game is fully functional and playable, just run the Game2.py file with python 3. 
 
